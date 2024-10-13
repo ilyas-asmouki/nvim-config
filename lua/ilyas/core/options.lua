@@ -43,3 +43,9 @@ opt.splitbelow = true -- split horizontal window to the bottom
 
 -- turn off swapfile
 opt.swapfile = false
+
+opt.guicursor = {
+  "n-v-c-sm-i-ci-ve:ver25",  -- use vertical line cursor (25% width) in normal, visual, command, select, insert, and command-line insert modes
+}
+
+
