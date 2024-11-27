@@ -45,7 +45,7 @@ opt.splitbelow = true -- split horizontal window to the bottom
 opt.swapfile = false
 
 opt.guicursor = {
-  "i:ver25",  -- use vertical line cursor (25% width) in insert mode
+  "a:ver25",  -- use vertical line cursor (25% width) in insert mode
 }
 
 
